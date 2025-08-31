@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/alishev-spring-security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/lesson-by-spring-security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/prometheus-spring-boot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/saga-pattern-spring-boot-success_case_init" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+@startuml
+'https://plantuml.com/sequence-deagram
+
+autonumber
+
+actor User
+
+box Application
+    participant "Spring Security" as security
+    participant "Spring Framework\nDispatcherServlet"
+end box
+
+User -> security: Authentication Response
+security -> "Spring Framework\nDispatcherServlet": Another authentication Request
+security<- "Spring Framework\nDispatcherServlet": Another authentication Request
+User <- security: Authentication Response
+
+@enduml
