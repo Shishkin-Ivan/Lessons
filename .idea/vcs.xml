@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/Spring/lesson-by-spring-security" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Spring/prometheus-spring-boot" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Spring/saga-pattern-spring-boot-success_case_init" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo222" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/intensive/SimpleSpringBootApp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/intensive/TestJenkins" vcs="Git" />
   </component>
